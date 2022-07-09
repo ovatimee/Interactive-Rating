@@ -1,5 +1,12 @@
 # Frontend Mentor - Interactive rating component
 
+## README Translation
+- [English](README.md)
+- [简体中文](README.zh-CN.md)
+- [繁体中文](README.zh-TW.md)
+- [हिंदी](README.hi.md)
+- [Française](README.fr.md)
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
